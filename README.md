@@ -37,7 +37,17 @@ Correlations: Provides pairwise correlation coefficients, helping identify multi
 
 Warnings and Insights: Flags potential issues such as highly imbalanced features, duplicate rows, or high cardinality columns.
 
-Interactivity: The generated HTML report is fully interactive, allowing for deeper exploration of individual features.
+Interactivity: The generated HTML report is fully interactive, allowing for deeper exploration of individual features
+
+_**PDF Reports**_
+
+I have exported the profiling results to PDF format for easy viewing and sharing. These PDF reports summarize the key insights from the datasets in a concise and structured way, making them accessible even without an interactive environment.
+
+Available PDF Reports
+
+Iris Dataset Profiling
+
+Air Passengers Dataset Profiling
 
 _**Conclusion**_
 
